@@ -3,4 +3,5 @@
     <string name="ConsultationMeteo">Consulter la météo</string>
     <string name="informations">Application permettant de télécharger les informations de météo en temps réel</string>
     <string name="recommencer">Recommencer</string>
+    <string name="Fin">Fini</string>
 </resources>

@@ -8,7 +8,7 @@
 
     <TextView
         android:id="@+id/tvMessages"
-        android:layout_width="wrap_content"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -29,7 +29,7 @@
 
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/rvListeVille"
+        android:id="@+id/rvListeVilles"
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:layout_margin="10dp"
@@ -41,7 +41,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btnRecommencer"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="10dp"
